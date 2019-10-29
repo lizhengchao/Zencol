@@ -1,0 +1,13 @@
+- [x] Using next.js.
+- [x] Integrate typescript
+- Choosing an styling system and integrateit.
+- Integrate storybook.
+- Integrate packtracker.
+- Enable CI.
+  - Type checking
+  - Test checking
+  - build storybook
+  - build packtracker
+- Enable CD.
+  - Deploy app
+  - Deploy storybook
