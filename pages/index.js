@@ -1,9 +1,7 @@
-import React from "react";
-
-const Home = () => (
-  <p>
+"use strict";
+exports.__esModule = true;
+var React = require("react");
+var Home = function () { return (<p>
     Welcome!, here is <strong>Zencol</strong> club
-  </p>
-);
-
-export default Home;
+  </p>); };
+exports["default"] = Home;
