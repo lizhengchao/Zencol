@@ -1,6 +1,7 @@
 - [x] Using next.js.
 - [x] Integrate typescript
-- Choosing an styling system and integrateit.
+- ~~Choosing an styling system and integrateit~~,
+  [x] decide keep to use style-components
 - Integrate storybook.
 - Integrate packtracker.
 - Enable CI.
