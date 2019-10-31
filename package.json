@@ -9,7 +9,9 @@
     "tsc": "tsc",
     "dev:storybook": "start-storybook",
     "build:storybook": "build-storybook -c .storybook -o .storybook/.out",
-    "test": "jest"
+    "test": "jest",
+    "docker:build": "make -f buildfiles/Makefile build",
+    "docker:run": "make -f buildfiles/Makefile run"
   },
   "dependencies": {
     "next": "^9.1.1",
