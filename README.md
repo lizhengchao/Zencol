@@ -9,3 +9,9 @@ Initialized by [`create-next-app`](https://github.com/zeit/next.js/tree/master/p
 ```
 yarn dev
 ```
+
+### Build project
+
+```
+build
+```
